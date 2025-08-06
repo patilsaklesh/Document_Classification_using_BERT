@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+bert_company_model
+bert_company_model.zip
+company-document-text.csv
+label_encoder.pkl
+inventory 2.pdf
+
 # Distribution / packaging
 .Python
 build/
