@@ -62,5 +62,5 @@ Document_Classification_using_BERT/
 
 Below is a preview of the Streamlit application:
 
-![App Screenshot](screenshots/Document Classifier using BERT.png)
+![App Screenshot](screenshots/base.png)
 ![App Screenshot](screenshots/predicted.png)
